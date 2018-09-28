@@ -1,0 +1,9 @@
+class A
+{
+   int i=10;
+   public static void main(String[] args)
+   {
+      System.out.println("print i value"+i);
+   }
+}
+
